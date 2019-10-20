@@ -65,16 +65,8 @@ to see the network model and all its intricacies
 Implement Dense optical flow analysis, get optical flow per each pixel. as seen in [this example](http://docs.opencv.org/3.1.0/d7/d8b/tutorial_py_lucas_kanade.html)
 
 
-### Architecture Design:
-![architecture design](https://github.com/JonathanCMitchell/CarND-Behavioral-Cloning-P3/blob/Master/plots/Convnet%20Architecture%20Nvidia%20Model.jpg)
-
-
-
-#### Twitter: [@jonathancmitch](https://twitter.com/jonathancmitch)
-#### Linkedin: [https://www.linkedin.com/in/jonathancmitchell](https://twitter.com/jonathancmitch)
-#### Github: [github.com/jonathancmitchell](github.com/jonathancmitchell)
-#### Medium: [https://medium.com/@jmitchell1991](https://medium.com/@jmitchell1991)
-
+#### Linkedin: [https://www.linkedin.com/in/irtizajafry](https://www.linkedin.com/in/irtizajafry)
+#### Github: [github.com/irtizajafry](github.com/irtizajafry)
 
 #### Tools used
 * [Numpy](http://www.numpy.org/)
